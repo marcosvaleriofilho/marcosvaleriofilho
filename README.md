@@ -8,7 +8,7 @@
 ## Experiência Profissional
  Estagiário de Engenharia de Software - Desenvolvimento aplicação offline-first em React Native e Typescript - Embrapa Agricultura Digital - [Agosto 2023 - Maio 2024]
  
- Iniciação Científica Ciência de Dados(Pesquisador) - Painéis de BI com Metabase - Embrapa Agricultura Digital [Junho 2024 - Atual]
+ Iniciação Científica Ciência de Dados(Pesquisador) - Painéis de BI com Metabase - Embrapa Agricultura Digital [Junho 2024 - Outubro 2024]
 ## Habilidades
 #### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
