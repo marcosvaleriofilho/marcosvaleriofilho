@@ -7,11 +7,12 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:marcosvaleriofilho@outlook.com)
 ## Experiência Profissional
 
+ Estagiário em IA - Criação de Aplicações utilizando IA - Instituto de Pesquisas Eldorado - [Outubro 2024 - Atual]
+ 
  Iniciação Científica Análise de Dados(Pesquisador) - Painéis de BI com Metabase - Embrapa Agricultura Digital [Junho 2024 - Outubro 2024]
 
  Estagiário de Engenharia de Software - Desenvolvimento aplicação offline-first em React Native e Typescript - Embrapa Agricultura Digital - [Agosto 2023 - Maio 2024]
 
- Estagiário em IA - Criação de Aplicações utilizando IA - Instituto de Pesquisas Eldorado - [Outubro 2024 - Atual]
 ## Habilidades
 #### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
