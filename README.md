@@ -1,14 +1,17 @@
 # Marcos Valério Filho
 ## Sobre
- Estudante de Engenharia de Software, atualmente no 6° Semestre, pesquisador na Embrapa Agricultura Digital.
+ Estudante de Engenharia de Software, atualmente no 6° Semestre, estagiário em IA no Instituto de Pesquisas Eldorado.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosavaleriofilho/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosvaleriofilho)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:marcosvaleriofilho@outlook.com)
 ## Experiência Profissional
- Estagiário de Engenharia de Software - Desenvolvimento aplicação offline-first em React Native e Typescript - Embrapa Agricultura Digital - [Agosto 2023 - Maio 2024]
- 
+
  Iniciação Científica Análise de Dados(Pesquisador) - Painéis de BI com Metabase - Embrapa Agricultura Digital [Junho 2024 - Outubro 2024]
+
+ Estagiário de Engenharia de Software - Desenvolvimento aplicação offline-first em React Native e Typescript - Embrapa Agricultura Digital - [Agosto 2023 - Maio 2024]
+
+ Estagiário em IA - Criação de Aplicações utilizando IA - Instituto de Pesquisas Eldorado - [Outubro 2024 - Atual]
 ## Habilidades
 #### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
