@@ -1,6 +1,6 @@
 # Marcos Valério Filho
 ## Sobre
- Estudante de Engenharia de Software, atualmente no 6° Semestre, estagiário em IA no Instituto de Pesquisas Eldorado.
+ Estudante de Engenharia de Software, atualmente no 7° Semestre, estagiário em IA no Instituto de Pesquisas Eldorado.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosavaleriofilho/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosvaleriofilho)
